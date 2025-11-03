@@ -1,0 +1,7 @@
+{
+  "name": "Copy of JLMX Logistics Portal",
+  "description": "A comprehensive logistics management application for creating, tracking, and managing internal material movements. It features QR code generation for easy tracking, resource assignment for coordinators, and real-time status updates for all users.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
